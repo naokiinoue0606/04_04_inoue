@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+/* kadai3.php header */
+.header-tittle{
+    font-size: 70px;
+    padding: 0.5em 1em;
+    margin: 20 20px;
+    font-weight: bold;
+    color: #f11212;/*文字色*/
+    background: rgb(7, 1, 1);
+    border: solid 3px #6091d3;/*線*/
+    border-radius: 10px;/*角の丸み*/
+}
+
+.header-main{
+  text-align: center;
+}
+
+.jumbotron{
+    padding: 0.5em 1em;
+    margin: 2em 0;
+    color: #5989cf;
+    background: #c6e4ff;
+    border-bottom: solid 6px #aac5de;
+    border-radius: 20px;
+}
+
+
+/*  footer */
+.footer-copyright{
+    text-align: right;
+
+}
+/* kadai3.php header */
+.aa{
+    text-align: center;
+}
+
+.navbar-header{
+    text-align: center;
+    font-size: 12px;
+}
+.navbar-brand{
+    font-size: 12px;
+
+}
